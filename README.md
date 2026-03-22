@@ -8,6 +8,30 @@ This project uses an **ATTiny85 development board (Digispark)** to create simple
 
 ---
 
+## 🦆 What is a "Rubber Ducky"?
+
+In cybersecurity, a **"Rubber Ducky"** is a small USB device that looks like a regular flash drive—but instead of storing files, it acts like a **keyboard** when plugged into a computer.
+
+Because computers inherently trust keyboards, the device can automatically “type” pre-programmed keystrokes at high speed. This allows it to:
+
+- Open terminals or command prompts
+- Execute scripts
+- Automate repetitive tasks
+- Demonstrate security vulnerabilities
+
+⚠️ While this technique is commonly used in **penetration testing and security research**, it can also be misused. Always use responsibly and only on systems you own or have permission to test.
+
+---
+
+## 🐤 Duck Mode Activated
+
+```
+   __
+<(o )___
+ ( ._> /
+  `---'
+```
+
 ## ⚠️ Disclaimer
 
 You are free to modify the code for your own projects. However:
