@@ -4,7 +4,7 @@ This project uses an **ATTiny85 development board (Digispark)** to create simple
 
 👉 Example hardware: https://amzn.to/4t0SuWn
 
-👉 For best ATtiny85 detection during uploading, use a USB 2.0 hub or adapter. Plugging directly into a USB 3.0 port is generally fine for normal use.
+👉 For reliable ATtiny85 detection when uploading code, it is recommended to use a USB 2.0 hub or adapter. For regular operation, connecting directly to a USB 3.0 port is usually sufficient.
 
 ---
 
